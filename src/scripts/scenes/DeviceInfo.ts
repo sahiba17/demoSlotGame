@@ -11,6 +11,7 @@ class DeviceInfo {
     this.isDesktop = this.mobileDetect.mobile() === null;
     this.isPhone = this.mobileDetect.phone() !== null;
     this.pixelDensity = window.devicePixelRatio;
+    debugger;
   }
 }
 
