@@ -1,0 +1,107 @@
+{"frames": {
+"wild.png":
+{
+	"frame": {"x":1,"y":535,"w":296,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":232},
+	"sourceSize": {"w":296,"h":232}
+},
+"bull.png":
+{
+	"frame": {"x":1,"y":301,"w":296,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":232},
+	"sourceSize": {"w":296,"h":232}
+},
+"trophy.png":
+{
+	"frame": {"x":1,"y":987,"w":284,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":284,"h":224},
+	"sourceSize": {"w":296,"h":232}
+},
+"shoes.png":
+{
+	"frame": {"x":1,"y":769,"w":294,"h":216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":8,"w":294,"h":216},
+	"sourceSize": {"w":296,"h":232}
+},
+"bag.png":
+{
+	"frame": {"x":1,"y":1213,"w":288,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":20,"w":288,"h":193},
+	"sourceSize": {"w":296,"h":232}
+},
+"a.png":
+{
+	"frame": {"x":299,"y":398,"w":206,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":14,"w":206,"h":205},
+	"sourceSize": {"w":296,"h":232}
+},
+"k.png":
+{
+	"frame": {"x":299,"y":605,"w":206,"h":198},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":17,"w":206,"h":198},
+	"sourceSize": {"w":296,"h":232}
+},
+"q.png":
+{
+	"frame": {"x":291,"y":1179,"w":209,"h":210},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":12,"w":209,"h":210},
+	"sourceSize": {"w":296,"h":232}
+},
+"j.png":
+{
+	"frame": {"x":303,"y":1,"w":182,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":14,"w":182,"h":205},
+	"sourceSize": {"w":296,"h":232}
+},
+"10.png":
+{
+	"frame": {"x":291,"y":987,"w":211,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":21,"w":211,"h":190},
+	"sourceSize": {"w":296,"h":232}
+},
+"9.png":
+{
+	"frame": {"x":303,"y":208,"w":163,"h":188},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":22,"w":163,"h":188},
+	"sourceSize": {"w":296,"h":232}
+},
+"scatter.png":
+{
+	"frame": {"x":1,"y":1,"w":300,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":150,"y":82,"w":300,"h":298},
+	"sourceSize": {"w":600,"h":450}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "symbols.png",
+	"format": "RGBA8888",
+	"size": {"w":506,"h":1407},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6d93db811355dc510d829b196c003a1c:f517501b640e2a463d56a7edba7e1bfb:d295ed7153fe372207e34d26d380974a$"
+}
+}
